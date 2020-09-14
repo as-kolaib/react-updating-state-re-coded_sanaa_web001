@@ -4,8 +4,6 @@ import React from 'react';
 class ClickityClick extends React.Component {
   constructor() {
     super();
-
-    // Define the initial state:
     this.state = {
       hasBeenClicked: false
     };
